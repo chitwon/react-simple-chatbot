@@ -17,7 +17,7 @@
     "analyze": "BUNDLE_ANALYZE=true ./node_modules/.bin/webpack --config webpack.config.prod.js -p"
   },
   "files": [
-    "dist"
+    "lib"
   ],
   "nyc": {
     "function": 80,
